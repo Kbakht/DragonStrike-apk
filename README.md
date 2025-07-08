@@ -14,6 +14,12 @@ Dragon Strike delivers an immersive VR combat experience where players battle a 
 3. On your VR device, enable installation from unknown sources if required.  
 4. Open the APK to install the game.  
 5. Launch Dragon Strike on your VR headset and enjoy the immersive combat experience.
+## Download APK
+
+[Download Dragon Strike APK](https://drive.google.com/uc?export=download&id=17LHKhFjENhmBrAlEkbDHC2Umk9Cid47E)
+
+## Notes
+
 
 ## Notes
 
