@@ -18,7 +18,7 @@ Dragon Strike delivers an immersive VR combat experience where players battle a 
 
 [Download Dragon Strike APK](https://drive.google.com/uc?export=download&id=17LHKhFjENhmBrAlEkbDHC2Umk9Cid47E)
 
-## Notes
+
 
 
 ## Notes
